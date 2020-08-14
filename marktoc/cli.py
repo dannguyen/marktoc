@@ -5,7 +5,7 @@ import regex as re
 from typing import NoReturn, List
 
 from marktoc.mylog import mylogger
-from marktok.parser import Parser
+from marktoc.parser import Parser
 
 
 

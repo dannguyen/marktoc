@@ -9,8 +9,8 @@
 ## Parser
 
 - Do I have to handle the alternative headline syntax?
-- better name than parser?
 - inventory/map methods for dryruns
+- should Parser be a class? Or should it just be a Marktoc class that has a parsing routine?
 
 ## Cli
 
